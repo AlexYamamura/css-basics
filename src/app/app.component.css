@@ -4,5 +4,9 @@ h1{
 }
 
 p{
+    font-family:cursive;
     color:red;
+    border: 5px dashed orange;
+    padding: 30px;
+    margin: 20px;
 }
